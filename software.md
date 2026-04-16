@@ -10,7 +10,7 @@ Klehr, D. (2025-2026): tree-species-unmixing [Github Repository](https://github.
 
 ## Forest Disturbance
 
-Frantz, D. (2025): hungry-beetle-core-nrt [Github Repository](https://github.com/ForestPulse/hungry-beetle-core-nrt)
+Frantz, D. (2025): hungry-beetle-core-nrt [Github Repository](https://github.com/ForestPulse/hungry-beetle-core-nrt)\
 Frantz, D. (2025): hungry-beetle-core [Github Repository](https://github.com/ForestPulse/hungry-beetle-core)
 
 ## Forest Structure
